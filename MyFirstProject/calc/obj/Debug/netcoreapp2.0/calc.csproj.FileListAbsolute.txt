@@ -1,0 +1,11 @@
+/home/sergey/git/unity/MyFirstProject/calc/bin/Debug/netcoreapp2.0/calc.deps.json
+/home/sergey/git/unity/MyFirstProject/calc/bin/Debug/netcoreapp2.0/calc.runtimeconfig.json
+/home/sergey/git/unity/MyFirstProject/calc/bin/Debug/netcoreapp2.0/calc.runtimeconfig.dev.json
+/home/sergey/git/unity/MyFirstProject/calc/bin/Debug/netcoreapp2.0/calc.dll
+/home/sergey/git/unity/MyFirstProject/calc/bin/Debug/netcoreapp2.0/calc.pdb
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.csprojAssemblyReference.cache
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.csproj.CoreCompileInputs.cache
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.AssemblyInfoInputs.cache
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.AssemblyInfo.cs
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.dll
+/home/sergey/git/unity/MyFirstProject/calc/obj/Debug/netcoreapp2.0/calc.pdb

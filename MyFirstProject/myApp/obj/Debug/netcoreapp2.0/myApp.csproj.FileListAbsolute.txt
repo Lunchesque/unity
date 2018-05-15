@@ -1,0 +1,11 @@
+/home/sergey/git/unity/MyFirstProject/myApp/bin/Debug/netcoreapp2.0/myApp.deps.json
+/home/sergey/git/unity/MyFirstProject/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/home/sergey/git/unity/MyFirstProject/myApp/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/home/sergey/git/unity/MyFirstProject/myApp/bin/Debug/netcoreapp2.0/myApp.dll
+/home/sergey/git/unity/MyFirstProject/myApp/bin/Debug/netcoreapp2.0/myApp.pdb
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.csprojAssemblyReference.cache
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.dll
+/home/sergey/git/unity/MyFirstProject/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
