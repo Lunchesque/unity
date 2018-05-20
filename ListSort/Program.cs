@@ -10,7 +10,6 @@ namespace ListSort
             string data = Console.ReadLine();
             string[] list = data.Split(' ');
 
-            // 
             int[] list_for_sort = GenerateIntList(list);
             int[] sorted_list = Bubble(list_for_sort);
 
