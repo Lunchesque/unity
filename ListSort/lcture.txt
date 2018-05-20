@@ -1,0 +1,83 @@
+using System;
+
+namespace ConsoleApplication3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 2;
+            int b = 1;
+            //for (int i = 0; i >= 0 ; i--)
+            //{
+            //    b *= a;
+            //    continue;
+            //}
+
+            //int i = 10;
+
+            //do
+            //{
+            //    b *= a;
+            //    i--;
+            //} while(i >= 0);
+
+            //char sign = '+';
+            //switch (sign)
+            //{
+            //    case '+':
+
+            //        break;
+            //    case '-':
+
+            //        break;
+            //    case '*':
+
+            //        break;
+            //    default:
+            //        break;
+            //}
+
+
+            //int[] my_int = new int[3];
+            //for (int i = 0; i < my_int.Length; i++)
+            //{
+            //    my_int[i] = int.Parse(Console.ReadLine());
+            //}
+
+            //int result = 0;
+            //for (int i = 0; i < my_int.Length; i++)
+            //{
+            //    result += my_int[i];
+            //}
+
+            //int[] ms = new int[5];
+            //for (int i = 4; i >= 1; i--)
+            //{
+            //    for (int j = 0; j < i; j++)
+            //    {
+            //        if (ms[j] > ms[j + 1])
+            //        {
+            //            //swap
+            //        }
+            //    }
+            //}
+
+
+            int result = Pow(2, 3);
+            Console.ReadKey();
+        }
+
+        static int Pow(int x, int a)
+        {
+            int result = 1;
+
+            for (int i = 0; i < a; i++)
+            {
+                result *= x;
+            }
+
+            return result;
+        }
+    }
+}

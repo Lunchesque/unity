@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sergey/git/unity/calc/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/home/sergey/git/unity/calc/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/sergey/git/unity/ListSort/ListSort.csproj",
+      "projectName": "ListSort",
+      "projectPath": "/home/sergey/git/unity/ListSort/ListSort.csproj",
       "packagesPath": "/home/sergey/.nuget/packages/",
-      "outputPath": "/home/sergey/git/unity/calc/ConsoleApp1/obj/",
+      "outputPath": "/home/sergey/git/unity/ListSort/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

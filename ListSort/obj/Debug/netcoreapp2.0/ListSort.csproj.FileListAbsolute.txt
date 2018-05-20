@@ -1,0 +1,11 @@
+/home/sergey/git/unity/ListSort/bin/Debug/netcoreapp2.0/ListSort.deps.json
+/home/sergey/git/unity/ListSort/bin/Debug/netcoreapp2.0/ListSort.runtimeconfig.json
+/home/sergey/git/unity/ListSort/bin/Debug/netcoreapp2.0/ListSort.runtimeconfig.dev.json
+/home/sergey/git/unity/ListSort/bin/Debug/netcoreapp2.0/ListSort.dll
+/home/sergey/git/unity/ListSort/bin/Debug/netcoreapp2.0/ListSort.pdb
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.csprojAssemblyReference.cache
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.csproj.CoreCompileInputs.cache
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.AssemblyInfoInputs.cache
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.AssemblyInfo.cs
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.dll
+/home/sergey/git/unity/ListSort/obj/Debug/netcoreapp2.0/ListSort.pdb
